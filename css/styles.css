@@ -1,5 +1,17 @@
 :root {
   --title-font-family: 'Raleway', sans-serif;
+  --accent-color: #ff6c00;
+
+  --bg-color: #ffffff;
+  --bg-color-light: #f7f7f7;
+  --bg-color-dark: #191c26;
+
+  --header-color: #ffffff;
+  --header-color-dark: #303030;
+  --header-color-light: rgba(157, 164, 189, 0.6);
+
+  --text-color-dark: #555555;
+  --text-color-light: #9da4bd;
 }
 
 body {
